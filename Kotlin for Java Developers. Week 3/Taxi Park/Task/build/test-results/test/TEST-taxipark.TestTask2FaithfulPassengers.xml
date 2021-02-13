@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="taxipark.TestTask2FaithfulPassengers" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-08-09T12:35:31" hostname="bamboo" time="0.015">
+  <properties/>
+  <testcase name="test0" classname="taxipark.TestTask2FaithfulPassengers" time="0.004"/>
+  <testcase name="test1" classname="taxipark.TestTask2FaithfulPassengers" time="0.0"/>
+  <testcase name="test2" classname="taxipark.TestTask2FaithfulPassengers" time="0.001"/>
+  <testcase name="test3" classname="taxipark.TestTask2FaithfulPassengers" time="0.001"/>
+  <testcase name="test4" classname="taxipark.TestTask2FaithfulPassengers" time="0.003"/>
+  <testcase name="test5" classname="taxipark.TestTask2FaithfulPassengers" time="0.001"/>
+  <testcase name="test6" classname="taxipark.TestTask2FaithfulPassengers" time="0.001"/>
+  <testcase name="test7" classname="taxipark.TestTask2FaithfulPassengers" time="0.001"/>
+  <system-out><![CDATA[{}
+{Passenger(name=P-1)=2, Passenger(name=P-4)=2, Passenger(name=P-5)=2, Passenger(name=P-2)=1}
+{Passenger(name=P-2)=5, Passenger(name=P-5)=3, Passenger(name=P-0)=3, Passenger(name=P-1)=3, Passenger(name=P-4)=4, Passenger(name=P-3)=1}
+{Passenger(name=P-2)=5, Passenger(name=P-5)=3, Passenger(name=P-0)=3, Passenger(name=P-1)=3, Passenger(name=P-4)=4, Passenger(name=P-3)=1}
+{Passenger(name=P-2)=8, Passenger(name=P-6)=8, Passenger(name=P-3)=9, Passenger(name=P-7)=8, Passenger(name=P-5)=5, Passenger(name=P-4)=3, Passenger(name=P-1)=3, Passenger(name=P-0)=2}
+{Passenger(name=P-9)=4, Passenger(name=P-7)=7, Passenger(name=P-4)=7, Passenger(name=P-6)=6, Passenger(name=P-3)=3, Passenger(name=P-11)=4, Passenger(name=P-8)=5, Passenger(name=P-5)=3, Passenger(name=P-1)=3, Passenger(name=P-0)=1}
+{Passenger(name=P-10)=4, Passenger(name=P-15)=4, Passenger(name=P-13)=6, Passenger(name=P-5)=7, Passenger(name=P-9)=2, Passenger(name=P-0)=7, Passenger(name=P-6)=5, Passenger(name=P-3)=3, Passenger(name=P-14)=5, Passenger(name=P-8)=3, Passenger(name=P-12)=4, Passenger(name=P-4)=4, Passenger(name=P-2)=4, Passenger(name=P-11)=8, Passenger(name=P-7)=4, Passenger(name=P-1)=5}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
